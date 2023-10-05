@@ -1,0 +1,5 @@
+sylius_ui:
+    events:
+        sylius.shop.product.show.right_sidebar:
+            blocks:
+                aa: 'bundles/SyliusShopBundle/Product/Show/right_sidebar.html.twig'
